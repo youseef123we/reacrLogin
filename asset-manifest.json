@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/loginAndRgaster/static/js/main.e3ed11ad.js",
-    "index.html": "/loginAndRgaster/index.html",
-    "main.e3ed11ad.js.map": "/loginAndRgaster/static/js/main.e3ed11ad.js.map"
+    "main.js": "/reacrLogin/static/js/main.e3ed11ad.js",
+    "index.html": "/reacrLogin/index.html",
+    "main.e3ed11ad.js.map": "/reacrLogin/static/js/main.e3ed11ad.js.map"
   },
   "entrypoints": [
     "static/js/main.e3ed11ad.js"
